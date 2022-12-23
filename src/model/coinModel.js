@@ -1,9 +1,3 @@
-// {  "symbol" // String and Unique
-// "name": // String and Unique
-// "marketCapUsd": // String  ( not Number)
-//  "priceUsd": //String
-// }
-
 const mongoose=require('mongoose')
 
 const coinSchema=new mongoose.Schema({
